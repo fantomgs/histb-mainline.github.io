@@ -93,6 +93,7 @@ CHIP_ID   Meaning
 ``1``    BGA 19x19
 ``3``    BGA 15x15
 ``7``    QFP 216
+``10``   BGA 21x21
 =======  =========
 
 Read Chip ID
